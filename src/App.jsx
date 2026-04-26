@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef } from “react”;
+import { useState, useEffect, useCallback, useRef } from "react";
 
 const DEFAULT_WATCHLIST = [
 { symbol: “NVDA”, name: “NVIDIA”,    type: “stock”  },
